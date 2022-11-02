@@ -1,2 +1,2 @@
 # CACPU-Net
-We will upload our code this week.
+We will update the readme document recently.
