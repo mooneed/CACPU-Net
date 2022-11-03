@@ -1,0 +1,5 @@
+EXP_ID: UNet_ECA
+MODEL:
+  NAME: UNet_Attention
+DATASET:
+  ID: K_FOLD

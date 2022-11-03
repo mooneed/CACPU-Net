@@ -1,0 +1,5 @@
+EXP_ID: UNet_SE
+MODEL:
+  NAME: UNet_SE
+DATASET:
+  ID: K_FOLD

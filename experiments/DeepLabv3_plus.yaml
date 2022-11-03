@@ -1,0 +1,5 @@
+EXP_ID: DeepLabv3_plus
+MODEL:
+  NAME: DeepLabv3_plus
+DATASET:
+  ID: K_FOLD

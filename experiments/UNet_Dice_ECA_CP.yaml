@@ -1,0 +1,7 @@
+EXP_ID: UNet_Dice_ECA_CP
+MODEL:
+  NAME: UNet_ECA_CP
+LOSS:
+  NAME: Dice
+DATASET:
+  ID: K_FOLD
